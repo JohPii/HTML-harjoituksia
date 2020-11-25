@@ -1,0 +1,17 @@
+table,th,td
+{
+  border: 1px solid black;
+}
+table
+{
+  border-collapse: collapse;
+}
+
+th
+  {
+  text-align: left;
+  padding-right: 25px;
+  }
+td{
+  padding-right: 25px;
+  }
