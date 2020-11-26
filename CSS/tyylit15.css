@@ -1,0 +1,32 @@
+table
+{
+  border-collapse: collapse;
+  width: 450px;
+}
+table thead th, thead td
+{
+  background-color: lightgrey;
+  font-weight: bold;
+}
+table td
+  {
+  text-align: right;
+  border: 1px solid lightgrey;
+  }
+  table tbody tr:nth-child(even)
+  {
+    background-color: floralwhite;
+  }
+table tbody tr:nth-child(odd)
+  {
+    background-color: ghostwhite;
+  }
+  table tfoot td {
+    background-color: lightgrey;
+    font-weight: bold;
+  }
+  th
+    {
+    text-align: left;
+  }
+  /*tää oli vaikea'/

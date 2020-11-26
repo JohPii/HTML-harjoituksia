@@ -11,9 +11,17 @@ th
   {
   text-align: left;
   padding-right: 25px;
+  border: 1px solid black;
+  color: white;
+  background-color: #F00000;
   }
-td{
+
+td
+  {
   padding-right: 25px;
+  border: 1px solid black;
   }
-  tr:nth-child(3)
-  
+  tr:nth-child(even)
+  {
+    background: #FFF000;
+  }
