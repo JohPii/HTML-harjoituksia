@@ -1,0 +1,51 @@
+
+
+h1, #nimi1 {
+  color: green;
+  font-family: fantasy;
+  font-size: 50px;
+}
+h2, #nimi2 {
+  color: pink;
+  font-family: cursive;
+  font: Comic Sans;
+}
+.yksi {
+  color: blue;
+  font-size: 15px;
+}
+.kaksi {
+  color: red;
+  font-size: 30px;
+}
+.kolme {
+  color: green;
+  font-size: 10px;
+}
+.neljä {
+  color: orange;
+  font-size: 20px;
+}
+.viisi {
+  color: brown;
+  font-size: 40px;
+}
+.kuusi {
+  color: purple;
+  font-size: 15px;
+}
+#kpl1 {
+  font-family: 'Raleway', cursive;
+}
+#kpl2 {
+  font: 15px Big Shoulders Stencil Display;
+}
+#kpl3 {
+  font-family: 'Dancing Script', cursive;
+}
+#kpl31 {
+  font: 15px Raleway;
+}
+#kpl4 {
+  font-family: 'Cinzel', serif;
+}
